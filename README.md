@@ -1,5 +1,5 @@
 # 💫 About Me:        
-I am Billuri Ananya, a student based in Hyderabad, India, with a strong interest in data and automation driven problem solving.<br><br> - 🌱Currently learning SQL, HTML, and CSS.<br> - 💼Working at Gradtutor.<br> -😄Pronouns: She/Her/Hers.<br>
+I am Billuri Ananya, a student based in Hyderabad, India, with a strong interest in data and automation driven problem solving.<br><br> - 🌱Currently learning SQL, HTML, and CSS.<br> - 💼Working on Gradtutor.<br> -😄Pronouns: She/Her/Hers.<br>
 
 
 ## 🌐 Socials:
